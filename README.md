@@ -5,15 +5,15 @@ B.E. CSE (AI/ML) @ Sri Krishna College of Technology (2024–2028)
 
 
 ## Stuff I'm Into
-- AI/ML  
-- Prompt Engineering   
+- AI/ML,LLM's,NLP   
 - UI/UX – I care a lot about design that makes sense and feels right
 
 ## Tech I Use
-`Java` `Python` `HTML` `CSS` `JavaScript`  
-`MySQL` `XAMPP` `WSL` `Figma` `VS Code` `C++`
+`Python` `HTML` `CSS` `JavaScript`  
+`MySQL` `XAMPP` `WSL` `VS Code` `C++`
 
 ## Learning Right Now
+- LLM's
 - Clean UI design for real users (not just devs)  
 - Linux OS
 
