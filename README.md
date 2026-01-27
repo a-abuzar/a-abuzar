@@ -31,6 +31,6 @@ git, linux, vscode
 
 ## now
 
-learning ml, llm 
+learning ml, systematic program design
 
 
