@@ -7,9 +7,9 @@ works on machine learning, intelligence, algorithms, and systems
 
 ## this space
 
-code as thinking  
-repos are scratchpads, tests, and mechanisms  
-some finished, some abandoned, all honest  
+codes
+repos
+some finished, some abandoned
 
 ---
 
@@ -25,7 +25,7 @@ system behavior
 ## tools I use
 
 c, c++, python, java, javascript, sql  
-git, linux, vscode  
+git
 
 ---
 
