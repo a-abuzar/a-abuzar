@@ -1,13 +1,13 @@
 <br />
 
-<h1 align="center">Abuzar.</h1>
+<h1 align="center">Abuzar A.</h1>
 
 <p align="center">
-  Designing intelligent systems and optimizing architectures.
+  I make things that makes life easier, better and beautiful.
   <br>
-  Specializing in Artificial Intelligence & Machine Learning.
+  Interested in the thought process behind human interface designs.
   <br>
-  Driven by a keen eye for great design and minimalist aesthetics.
+  I want to make things more efficient and optimized.
 </p>
 
 <p align="center">
@@ -15,40 +15,23 @@
   &nbsp;&middot;&nbsp;
   <a href="https://leetcode.com/a-abuzar" style="text-decoration:none;">LeetCode</a>
   &nbsp;&middot;&nbsp;
-  <a href="mailto:abuzarwh@gmail.com" style="text-decoration:none;">Contact</a>
+  <a href="mailto:abuzarwh@gmail.com" style="text-decoration:none;">Mail</a>
 </p>
 
 <br />
-<hr style="border: 1px solid #eaeaea;" />
-<br />
 
-### Selected Work
+### My Best Works
 
-**OccuSearch: AI-Enabled Semantic Search**  
-Engineered a natural language retrieval system for official NCO-2015 codes. Replaced legacy keyword search with Sentence-BERT and Elasticsearch for context-aware semantic matching. Integrated a multilingual voice-search interface using Indic NLP.  
-*Python, SBERT, Elasticsearch*
+**OccuSearch: AI-Enabled Semantic Search Engine**  
+A semantic search engine for NCO-2015. Replacing a keyword based search engine.
+*Python, Fssai, SBERT, Elasticsearch*
 
 <br />
 
-**KMRL Unified Intelligence Operator**  
-Led the development of an AI scheduling prototype for Kochi Metro Rail. Implemented Genetic and Dijkstra algorithms for efficient fleet induction and built a real-time React dashboard for service status visualization.  
-*Python, React, OR-Tools*
+**Whims: What It Means**  
+Offline dictionary lookup tool deployed system wide on windows. If you want to know the meaning of a word, just select it, and click Ctrl+Shift+D to know it's meaning on a borderless seamless popup window near the cursor.
+*Python, CustomTkinter, NLTK, PyInstaller*
 
-<br />
-
-### Toolkit
-
-**Languages** — Python, C++, Java, JavaScript, SQL  
-**Libraries & Data** — NumPy, Pandas, PyPDF2, Elasticsearch, SBERT  
-**Software & Web** — React, HTML/CSS, Git, Unix OS  
-
-<br />
-
-### Current Focus
-
-Deepening knowledge in data structures, algorithms, and semantic indexing techniques. Applying *Systematic Program Design* principles to build robust, maintainable software.
-
-<br />
 <br />
 
 <p align="center">
