@@ -3,11 +3,9 @@
 <h1 align="center">Abuzar A.</h1>
 
 <p align="center">
-  I make things that makes life easier, better and beautiful.
-  <br>
-  Interested in the thought process behind human interface designs.
-  <br>
-  I want to make things more efficient and optimized.
+Building things that make life easier, better, and more beautiful.<br>
+Exploring the thinking behind human interface design.<br>
+Optimizing systems for simplicity, efficiency, and performance.
 </p>
 
 <p align="center">
